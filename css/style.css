@@ -1,29 +1,22 @@
+table,
+td,
+th {
+    border-collapse: collapse;
 
-			table,td,th{
-						border-collapse:collapse;
-						
-						padding:20px;
-						
-						
-					}
-				
-
-			table{
-					
-			
-					width:100%;
-			
-				}
-body{
-		background-image:url('https://wallpaperaccess.com/full/461236.jpg');
-		background-size:cover;
+    padding: 20px;
 }
-				
-				
-			td:hover,th:hover{
-					
-							background-image:url('https://assets.stickpng.com/thumbs/584c69846e7d5809d2fa6366.png');
 
-							background-size:cover;
-						}
-	
+table {
+    width: 100%;
+}
+body {
+    background-image: url("https://wallpaperaccess.com/full/461236.jpg");
+    background-size: cover;
+}
+
+td:hover,
+th:hover {
+    background-image: url("https://assets.stickpng.com/thumbs/584c69846e7d5809d2fa6366.png");
+
+    background-size: cover;
+}
